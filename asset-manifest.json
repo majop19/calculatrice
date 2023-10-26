@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculatrice/static/css/main.f39a1c1c.css",
+    "main.js": "/calculatrice/static/js/main.8dc7a408.js",
+    "static/media/Orpheus-Pro-Italic.otf": "/calculatrice/static/media/Orpheus-Pro-Italic.7f364508aac9306cdce7.otf",
+    "static/media/JUSTSansRegular.otf": "/calculatrice/static/media/JUSTSansRegular.4ea0fcccc6094d2b112e.otf",
+    "static/media/DS-DIGI.TTF": "/calculatrice/static/media/DS-DIGI.0ef0e2249326c34137c8.TTF",
+    "index.html": "/calculatrice/index.html",
+    "main.f39a1c1c.css.map": "/calculatrice/static/css/main.f39a1c1c.css.map",
+    "main.8dc7a408.js.map": "/calculatrice/static/js/main.8dc7a408.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f39a1c1c.css",
+    "static/js/main.8dc7a408.js"
+  ]
+}
